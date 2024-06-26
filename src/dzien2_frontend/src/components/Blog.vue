@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h2 class="text-color-600">Wpisy na bloga:</h2>
+        <h2 class="text-blue-600">Wpisy na bloga:</h2>
         <div class="w-100 flex flex-row-reverse">
             <button @click="pobierzWpisy" class="float-right bg-blue-600 rounded text-white p-4">refresh</button>
         </div>
